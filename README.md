@@ -21,6 +21,10 @@ Built with Kotlin and Jetpack Compose.
   <img src="screenshots/settings_light.png" width="180"/>
   &nbsp;
   <img src="screenshots/settings_dark.png" width="180"/>
+  &nbsp;
+  <img src="screenshots/schedule_feature.png" width="180"/>
+  &nbsp;
+  <img src="screenshots/clear_logs.png" width="180"/>
 </p>
 <p align="center">
   <sub>Dashboard (Light) &nbsp;&nbsp;&nbsp; Dashboard (Dark) &nbsp;&nbsp;&nbsp; Alerts &nbsp;&nbsp;&nbsp; Settings</sub>
