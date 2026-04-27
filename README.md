@@ -8,6 +8,33 @@ Built with Kotlin and Jetpack Compose.
 
 ## Screenshots
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="screenshots/dashboard_light.png" width="160"/></td>
+    <td align="center"><img src="screenshots/dashboard_dark.png" width="160"/></td>
+    <td align="center"><img src="screenshots/alerts_light.png" width="160"/></td>
+    <td align="center"><img src="screenshots/alerts_dark.png" width="160"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Dashboard (Light)</sub></td>
+    <td align="center"><sub>Dashboard (Dark)</sub></td>
+    <td align="center"><sub>Alerts (Light)</sub></td>
+    <td align="center"><sub>Alerts (Dark)</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/settings_light.png" width="160"/></td>
+    <td align="center"><img src="screenshots/settings_dark.png" width="160"/></td>
+    <td align="center"><img src="screenshots/schedule_feature.png" width="160"/></td>
+    <td align="center"><img src="screenshots/clear_logs.png" width="160"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Settings (Light)</sub></td>
+    <td align="center"><sub>Settings (Dark)</sub></td>
+    <td align="center"><sub>Schedule Irrigation</sub></td>
+    <td align="center"><sub>Clear Logs</sub></td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="screenshots/dashboard_light.png" width="180" style="vertical-align: top"/>
