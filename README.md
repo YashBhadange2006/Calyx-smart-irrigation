@@ -10,21 +10,21 @@ Built with Kotlin and Jetpack Compose.
 
 
 <p align="center">
-  <img src="screenshots/dashboard_light.png" width="180"/>
+  <img src="screenshots/dashboard_light.png" width="180" style="vertical-align: top"/>
   &nbsp;
-  <img src="screenshots/dashboard_dark.png" width="180"/>
+  <img src="screenshots/dashboard_dark.png" width="180" style="vertical-align: top"/>
   &nbsp;
-  <img src="screenshots/alerts_light.png" width="180"/>
+  <img src="screenshots/alerts_light.png" width="180" style="vertical-align: top"/>
   &nbsp;
-  <img src="screenshots/alerts_dark.png" width="180"/>
+  <img src="screenshots/alerts_dark.png" width="180" style="vertical-align: top"/>
   &nbsp;
-  <img src="screenshots/settings_light.png" width="180"/>
+  <img src="screenshots/settings_light.png" width="180" style="vertical-align: top"/>
   &nbsp;
-  <img src="screenshots/settings_dark.png" width="180"/>
+  <img src="screenshots/settings_dark.png" width="180" style="vertical-align: top"/>
   &nbsp;
-  <img src="screenshots/schedule_feature.png" width="180"/>
+  <img src="screenshots/schedule_feature.png" width="180" style="vertical-align: top"/>
   &nbsp;
-  <img src="screenshots/clear_logs.png" width="180"/>
+  <img src="screenshots/clear_logs.png" width="180" style="vertical-align: top"/>
 </p>
 <p align="center">
   <sub>Dashboard (Light) &nbsp;&nbsp;&nbsp; Dashboard (Dark) &nbsp;&nbsp;&nbsp; Alerts &nbsp;&nbsp;&nbsp; Settings</sub>
