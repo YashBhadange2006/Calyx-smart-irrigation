@@ -93,6 +93,24 @@ Built with Kotlin and Jetpack Compose.
 </p>
 
 
+## Screenshots
+
+<table align="center">
+  <tr valign="top">
+    <td align="center"><img src="screenshots/dashboard_light.png" width="180"/><br/><sub>Dashboard (Light)</sub></td>
+    <td align="center"><img src="screenshots/dashboard_dark.png" width="180"/><br/><sub>Dashboard (Dark)</sub></td>
+    <td align="center"><img src="screenshots/alerts_light.png" width="180"/><br/><sub>Alerts (Light)</sub></td>
+    <td align="center"><img src="screenshots/alerts_dark.png" width="180"/><br/><sub>Alerts (Dark)</sub></td>
+  </tr>
+  <tr valign="top">
+    <td align="center"><img src="screenshots/settings_light.png" width="180"/><br/><sub>Settings (Light)</sub></td>
+    <td align="center"><img src="screenshots/settings_dark.png" width="180"/><br/><sub>Settings (Dark)</sub></td>
+    <td align="center"><img src="screenshots/schedule_feature.png" width="180"/><br/><sub>Schedule Irrigation</sub></td>
+    <td align="center"><img src="screenshots/clear_logs.png" width="180"/><br/><sub>Clear Logs</sub></td>
+  </tr>
+</table>
+
+
 ### Dashboard
 
 <p align="center">
