@@ -8,27 +8,42 @@ Built with Kotlin and Jetpack Compose.
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td align="center"><b>Dashboard</b></td>
-    <td align="center"><b>Alerts</b></td>
-    <td align="center"><b>Settings</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="screenshots/dashboard_light.png" width="160"/>
-      <img src="screenshots/dashboard_dark.png" width="160"/>
-    </td>
-    <td>
-      <img src="screenshots/alerts_light.png" width="160"/>
-      <img src="screenshots/alerts_dark.png" width="160"/>
-    </td>
-    <td>
-      <img src="screenshots/settings_light.png" width="160"/>
-      <img src="screenshots/settings_dark.png" width="160"/>
-    </td>
-  </tr>
-</table>
+### Dashboard
+
+<p align="center">
+  <img src="screenshots/dashboard_light.png" width="220"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/dashboard_dark.png" width="220"/>
+</p>
+<p align="center">
+  <sub>Light Mode &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dark Mode</sub>
+</p>
+
+---
+
+### Alerts
+
+<p align="center">
+  <img src="screenshots/alerts_light.png" width="220"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/alerts_dark.png" width="220"/>
+</p>
+<p align="center">
+  <sub>Light Mode &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dark Mode</sub>
+</p>
+
+---
+
+### Settings
+
+<p align="center">
+  <img src="screenshots/settings_light.png" width="220"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/settings_dark.png" width="220"/>
+</p>
+<p align="center">
+  <sub>Light Mode &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dark Mode</sub>
+</p>
 
 ---
 
